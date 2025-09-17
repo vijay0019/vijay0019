@@ -23,9 +23,7 @@
 - **Biomedical NER with BioClinicalBERT** – Achieved 87% accuracy on RareDis Corpus.  
 - **Precautionary Advice Summarization with Llama** – RAG pipeline for concise medical summaries.  
 - **Customer Churn Prediction** – 78% accuracy using Logistic Regression & EDA.  
-- **GAN for Anime Faces** – High-fidelity image synthesis with PyTorch.  
-
-👉 Check out more on my [GitHub](https://github.com/vijay0019)!
+- **GAN for Anime Faces** – High-fidelity image synthesis with PyTorch.
 
 ---
 
