@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vijay Raj Jain
+# Hi there 👋 I'm Vijay
 
 🎓 MS in Data Science @ University of Alabama, Birmingham
 
