@@ -20,8 +20,9 @@
 ---
 
 ### 📂 Projects
-- **Biomedical NER with BioClinicalBERT** – Achieved 87% accuracy on RareDis Corpus.  
-- **Precautionary Advice Summarization with Llama** – RAG pipeline for concise medical summaries.  
+- **GPT-2 Style Language Model From Scratch** - Implemented an autoregressive transformer (self-attention, positional embeddings, causal masking) in PyTorch; trained and evaluated via perplexity and text generation.
+- **Deepfake Image Detection** – Finetuned a ResNet based CNN to classify real vs. deepfake images; achieved ~98% validation accuracy with ROC and confusion-matrix evaluation.
+- **Biomedical NER with BioClinicalBERT** – Achieved 87% accuracy on RareDis Corpus.
 - **Customer Churn Prediction** – 78% accuracy using Logistic Regression & EDA.  
 - **GAN for Anime Faces** – High-fidelity image synthesis with PyTorch.
 
