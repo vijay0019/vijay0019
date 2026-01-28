@@ -20,7 +20,7 @@
 ---
 
 ### 📂 Projects
-- **GPT-2 Style Language Model From Scratch** - Implemented an autoregressive transformer (self-attention, positional embeddings, causal masking) in PyTorch; trained and evaluated via perplexity and text generation.
+- **GPT-2 Style Language Model From Scratch** - Implemented an autoregressive transformer (self-attention, positional embeddings, causal masking) in PyTorch; trained and evaluated via text generation on validation set and HellaSwag dataset.
 - **Deepfake Image Detection** – Finetuned a ResNet based CNN to classify real vs. deepfake images; achieved ~98% validation accuracy with ROC and confusion-matrix evaluation.
 - **Biomedical NER with BioClinicalBERT** – Achieved 87% accuracy on RareDis Corpus.
 - **Customer Churn Prediction** – 78% accuracy using Logistic Regression & EDA.  
